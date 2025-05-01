@@ -19,10 +19,6 @@ A modular and scalable Java-based course registration system that supports cours
 ## 🛠 Technologies & Tools
 
 - Java (JDK 8+)
-- Java Collections (HashMap, TreeSet, Queue, List)
-- Package-based modular design
-
----
-
-## 📦 Package Structure
-
+- Java Collections Framework
+- Object-Oriented Programming (OOP)
+- Package-based architecture
