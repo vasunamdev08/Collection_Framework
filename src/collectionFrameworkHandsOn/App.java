@@ -1,7 +1,7 @@
-package Collection_Framework_HandsOn;
+package collectionFrameworkHandsOn;
 
-import Collection_Framework_HandsOn.service.RegistrationService;
-import Collection_Framework_HandsOn.service.impl.RegistrationServiceImpl;
+import collectionFrameworkHandsOn.service.RegistrationService;
+import collectionFrameworkHandsOn.service.impl.RegistrationServiceImpl;
 
 import java.util.Scanner;
 

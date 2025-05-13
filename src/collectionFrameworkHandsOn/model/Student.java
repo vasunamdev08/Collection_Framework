@@ -1,4 +1,4 @@
-package Collection_Framework_HandsOn.model;
+package collectionFrameworkHandsOn.model;
 
 import java.util.Objects;
 
