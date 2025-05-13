@@ -1,8 +1,8 @@
-package Collection_Framework_HandsOn.service.impl;
+package collectionFrameworkHandsOn.service.impl;
 
-import Collection_Framework_HandsOn.model.Course;
-import Collection_Framework_HandsOn.model.Student;
-import Collection_Framework_HandsOn.service.RegistrationService;
+import collectionFrameworkHandsOn.model.Course;
+import collectionFrameworkHandsOn.model.Student;
+import collectionFrameworkHandsOn.service.RegistrationService;
 
 import java.util.*;
 import java.util.stream.Collectors;

@@ -1,4 +1,4 @@
-package Collection_Framework_HandsOn.service;
+package collectionFrameworkHandsOn.service;
 
 public interface RegistrationService {
         void registerStudentToCourse();
